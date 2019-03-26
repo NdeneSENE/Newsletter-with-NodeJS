@@ -65,17 +65,3 @@ app.post("/failure", function(req, res){
 app.listen(process.env.PORT || port, function(){
     console.log("Server run on port: " +port);
 });
-
-
-
-
-
-
-
-
-
-
-//Mailchimp API KEY
-//3bfe3439169f40a61f365e311a7690ef-us20
-//App id
-//
